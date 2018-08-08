@@ -39,7 +39,7 @@ $ruta = "https://raw.githubusercontent.com/MishelCenteno/ProyectoSOA/master/vehi
   <div class="container">
 
         <!-- Page Heading -->
-        <h1 class="my-4">Listado de Vehiculos
+        <h1 class="my-4"  style="text-align:center;">Listado de Vehiculos
         </h1>
         <br/>
         <!-- Project One -->
