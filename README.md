@@ -1,3 +1,3 @@
-#Proyecto PHP que consume archivos JSON
+#Proyecto PHP que consume archivos XML.
 
-Este proyecto uso los datos de 2 archivos JSON.
+Este proyecto uso los datos de 2 archivos XML.
